@@ -4,5 +4,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have lived in 4 countries for over 4 years each!
 - 👉 finger psarossy@finger.farm
+- [Google Scolar Profile](https://scholar.google.com/citations?user=7gTrKWMAAAAJ&hl=en)
 
 ![Peter's's github stats](https://github-readme-stats.vercel.app/api?username=psarossy&show_icons=&theme=gotham&count_private=true)
