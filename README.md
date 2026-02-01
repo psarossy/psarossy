@@ -13,5 +13,3 @@ Security Engineer @ Anthropic
 - 📚 I occasionally write things with big words → [Google Scholar Profile](https://scholar.google.com/citations?user=7gTrKWMAAAAJ&hl=en)
 
 [![Linkedin Badge](https://img.shields.io/badge/-psarossy-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-sarossy/)](https://www.linkedin.com/in/peter-sarossy/)
-
-![Peter's github stats](https://github-readme-stats.vercel.app/api?username=psarossy&show_icons=true&theme=gotham&count_private=true)
